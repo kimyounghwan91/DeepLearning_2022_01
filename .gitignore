@@ -15,7 +15,7 @@ API_KEY.txt
 __pycache__/
 *.py[cod]
 *$py.class
-
+ko.zip
 # C extensions
 *.so
 
